@@ -1,0 +1,1309 @@
+fileFormatVersion: 2
+guid: e22bd68b49c24fb4c9a379711343612f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: UI_Play_Idle
+  - first:
+      213: 21300002
+    second: UI_Play_Press
+  - first:
+      213: 21300004
+    second: UI_Setting_Idle
+  - first:
+      213: 21300006
+    second: UI_Setting_Press
+  - first:
+      213: 21300008
+    second: UI_Shutdown_Idle
+  - first:
+      213: 21300010
+    second: UI_Shutdown_Press
+  - first:
+      213: 21300012
+    second: UI_DialogueBox
+  - first:
+      213: 21300014
+    second: UI_Close_Idle
+  - first:
+      213: 21300016
+    second: UI_Close_Press
+  - first:
+      213: 21300018
+    second: UI_OK_Idle
+  - first:
+      213: 21300020
+    second: UI_OK_Press
+  - first:
+      213: 21300022
+    second: UI_DialogueBox_Press
+  - first:
+      213: 21300024
+    second: UI_Circle_Idle
+  - first:
+      213: 21300026
+    second: UI_Circle_Press
+  - first:
+      213: 21300028
+    second: UI_Player_Yellow
+  - first:
+      213: 21300030
+    second: UI_Player_Red
+  - first:
+      213: 21300032
+    second: UI_Player_Green
+  - first:
+      213: 21300034
+    second: UI_Player_Purple
+  - first:
+      213: 21300036
+    second: UI_Player_Deselect
+  - first:
+      213: 21300038
+    second: UI_Add_Idle
+  - first:
+      213: 21300040
+    second: UI_Add_Press
+  - first:
+      213: 21300042
+    second: UI_Minus_Idle
+  - first:
+      213: 21300044
+    second: UI_Minus_Press
+  - first:
+      213: 21300046
+    second: UI_Dice
+  - first:
+      213: 21300048
+    second: UI_Pause_Idle
+  - first:
+      213: 21300050
+    second: UI_Pause_Press
+  - first:
+      213: 21300052
+    second: UI_Dice_Idle
+  - first:
+      213: 21300054
+    second: UI_Dice_Press
+  - first:
+      213: 21300056
+    second: UI_Restart_Idle
+  - first:
+      213: 21300058
+    second: UI_Restart_Press
+  - first:
+      213: 21300060
+    second: UI_Home_Idle
+  - first:
+      213: 21300062
+    second: UI_Home_Press
+  - first:
+      213: 21300064
+    second: UI_Sound_Idle
+  - first:
+      213: 21300066
+    second: UI_Sound_Press
+  - first:
+      213: 21300068
+    second: UI_NoSound_Idle
+  - first:
+      213: 21300070
+    second: UI_NoSound_Press
+  - first:
+      213: 21300072
+    second: UI_Ranking
+  - first:
+      213: 21300074
+    second: UI_Champion
+  - first:
+      213: 21300076
+    second: UI_Dice_d4_Idle
+  - first:
+      213: 21300078
+    second: UI_Dice_d4_Press
+  - first:
+      213: 21300080
+    second: UI_Dice_d6_Idle
+  - first:
+      213: 21300082
+    second: UI_Dice_d6_Press
+  - first:
+      213: 21300084
+    second: UI_Dice_d8_Idle
+  - first:
+      213: 21300086
+    second: UI_Dice_d8_Predd
+  - first:
+      213: 21300088
+    second: UI_Dice_d10_Idle
+  - first:
+      213: 21300090
+    second: UI_Doce_d10_Press
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_Play_Idle
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1788
+        width: 232
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ae1e48d9166e1488fa2065e0f0e504
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Play_Press
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1788
+        width: 232
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2091d11f658a59843a53de55f11f7863
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Setting_Idle
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1788
+        width: 232
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396316b3697e99145bd99afbddc23336
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Setting_Press
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1788
+        width: 232
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847aa50e326d2b545bd426dcdfcf45c9
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Shutdown_Idle
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1788
+        width: 232
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21e55bc95a6760458197775b30ab65c
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Shutdown_Press
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1788
+        width: 232
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f724ed57b42f55647b99246a2f391251
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_DialogueBox
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1764
+        width: 251
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 35, y: 65, z: 35, w: 35}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5012d69c301046498179e7ee0ea2421
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Close_Idle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1528
+        width: 232
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19df53215310beb4383b2f45fff1e9ea
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Close_Press
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1528
+        width: 232
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dbe3a5eb8a7fd45b73150c2806f20f
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_OK_Idle
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1528
+        width: 232
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29be767475f40f04688d5592a4f929cc
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_OK_Press
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1528
+        width: 232
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9482bb647d9e4443abbf221757619c7
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_DialogueBox_Press
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1764
+        width: 251
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 35, y: 65, z: 35, w: 55}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91c7ebcb43a4f747a2196eb2a186010
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Circle_Idle
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1525
+        width: 232
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba55311d75512d48992a585d2c074dd
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Circle_Press
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1525
+        width: 232
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84c51fc84e625948af284692d08896b
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Player_Yellow
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1077
+        width: 298
+        height: 445
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587851e871d6fcb4e8cb321a048e982d
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Player_Red
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1076
+        width: 298
+        height: 445
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529d5bdc2266f964d9ab34c0e5f5e86a
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Player_Green
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1076
+        width: 298
+        height: 445
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bebeb254e0f334a8eb53e02c4c444a
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Player_Purple
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1076
+        width: 298
+        height: 445
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a14433133711d949bcea140a57d394d
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Player_Deselect
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1076
+        width: 298
+        height: 445
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fe88e4f7bb05f4d9b95aec8fbba89c
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Add_Idle
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1499
+        width: 232
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868df3f4e5326014c98c508c363f322b
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Add_Press
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 1499
+        width: 232
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd2e8758d5d61243a88872aea522c69
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Minus_Idle
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1239
+        width: 232
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02d9e5358c28fe4789ae61fca5cb5c6
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Minus_Press
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 1239
+        width: 232
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12df593103066f449424a05da5782a7
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Dice
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1596
+        width: 145
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0757d499deaefa4aba05194aad8729e
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Pause_Idle
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 978
+        width: 232
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd915a4ac2a12cc4b80cc5b294fb03c2
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Pause_Press
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 978
+        width: 232
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710aecdb40627a24b847dfea7c8caabb
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Dice_Idle
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 815
+        width: 232
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0875d98411eb784c96df11ac1a49947
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Dice_Press
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 815
+        width: 232
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8938bc198743443bb663347f1d8099
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Restart_Idle
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 817
+        width: 232
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ed85449d8b47a4c91456691116bdc1
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Restart_Press
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 817
+        width: 232
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd4c81a82918c54d87b77d4aea8134e
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Home_Idle
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 817
+        width: 232
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f582d5f1bf35a75498e52eb8da9b0048
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Home_Press
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 817
+        width: 232
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b48096b51f8e744da4a3b8263d37b9d
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sound_Idle
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 555
+        width: 232
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a9f79a3286c8246a578b26c3c664eb
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sound_Press
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 555
+        width: 232
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e24a685ed691b42a19f02486f13cb6
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_NoSound_Idle
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 555
+        width: 232
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd363374cb71b0c45932a67b0f508700
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_NoSound_Press
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 555
+        width: 232
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6496e7524ba6c6c49a933adeb235a657
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Ranking
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 712
+        width: 634
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8d1797277658145bb21ecf1e5db7c3
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Champion
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 284
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44fe995f5d0db4429d1eaac1c9af45c
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Dice_d4_Idle
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 295
+        width: 232
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e9f990b28ff734f95b6060e2709a12
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Dice_d4_Press
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 295
+        width: 232
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db1b47dd77535341a27aaa1cb956511
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Dice_d6_Idle
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 295
+        width: 232
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced50f37a9ea5bd44a57fb1012a21eb0
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Dice_d6_Press
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 295
+        width: 232
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c225657d58bd134ea3ec686ffd9486c
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Dice_d8_Idle
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 553
+        width: 232
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816d16a0bb67d754885f5f0c1335a61b
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Dice_d8_Predd
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 553
+        width: 232
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2c6fa00cdc407489ee7574ff81e55c
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Dice_d10_Idle
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 451
+        width: 232
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7a63682ece10b4ea153d2e06a9d6f1
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Doce_d10_Press
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 451
+        width: 232
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e49095b884905546ba2b013af3f3400
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4adcf61b98a9adb4d9e01324d91aef01
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UI_Shutdown_Idle: 21300008
+      UI_Setting_Idle: 21300004
+      UI_Pause_Press: 21300050
+      UI_DialogueBox: 21300012
+      UI_OK_Press: 21300020
+      UI_Play_Idle: 21300000
+      UI_Pause_Idle: 21300048
+      UI_DialogueBox_Press: 21300022
+      UI_Ranking: 21300072
+      UI_Player_Green: 21300032
+      UI_Circle_Press: 21300026
+      UI_Restart_Press: 21300058
+      UI_Player_Deselect: 21300036
+      UI_Add_Idle: 21300038
+      UI_Dice_d4_Idle: 21300076
+      UI_Sound_Idle: 21300064
+      UI_Restart_Idle: 21300056
+      UI_Home_Press: 21300062
+      UI_Sound_Press: 21300066
+      UI_Setting_Press: 21300006
+      UI_Shutdown_Press: 21300010
+      UI_Dice_d6_Press: 21300082
+      UI_NoSound_Press: 21300070
+      UI_Dice_d6_Idle: 21300080
+      UI_Minus_Idle: 21300042
+      UI_Champion: 21300074
+      UI_OK_Idle: 21300018
+      UI_Dice_d8_Predd: 21300086
+      UI_Player_Red: 21300030
+      UI_NoSound_Idle: 21300068
+      UI_Dice: 21300046
+      UI_Home_Idle: 21300060
+      UI_Dice_d10_Idle: 21300088
+      UI_Close_Press: 21300016
+      UI_Dice_d8_Idle: 21300084
+      UI_Doce_d10_Press: 21300090
+      UI_Dice_Press: 21300054
+      UI_Close_Idle: 21300014
+      UI_Play_Press: 21300002
+      UI_Minus_Press: 21300044
+      UI_Player_Yellow: 21300028
+      UI_Dice_d4_Press: 21300078
+      UI_Circle_Idle: 21300024
+      UI_Player_Purple: 21300034
+      UI_Dice_Idle: 21300052
+      UI_Add_Press: 21300040
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
